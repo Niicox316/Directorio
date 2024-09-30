@@ -10,8 +10,6 @@ Este es un proyecto de directorio de contactos desarrollado en Android utilizand
 ## Características
 - Agregar nuevos contactos con nombre, apellido, teléfono, correo y dirección.
 - Ver la lista de contactos almacenados.
-- Editar información de contactos existentes.
-- Eliminar contactos de la lista.
 - Navegar a una pantalla de detalles para ver información completa de cada contacto.
 
 ## Requisitos
